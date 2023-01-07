@@ -1,0 +1,6 @@
+
+Install Pucket PHP
+
+pkg install php
+
+jalankan Program : php bot.php
